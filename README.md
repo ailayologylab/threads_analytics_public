@@ -57,7 +57,7 @@ This tool is designed to collect post data from the Threads platform and export 
 1. Clone the repository:
 ```bash
 git clone [repository_url]
-cd threads-data-analytics
+cd threads_analytics_public
 ```
 
 2. Create a virtual environment:
