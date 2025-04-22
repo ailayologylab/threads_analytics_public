@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# Credentials and Secrets
+credentials/
+secure/
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+*.enc
+*.secret
+*_key
+*_token
+credentials.json
+token.json
+auth.json
+api_key.*
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+*.json
+
+# Reference directory
+reference/
+
+# Logs
+*.log
+logs/
+log/
+*.log.*
+
+# Cache
+.cache/
+.pytest_cache/
+__pycache__/
+.coverage
+
+# Threads API specific
+threads_data/
+temp/
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Documentation
+guide/
+
+# GitHub specific
+.github/
+.github/workflows/
+.github/ISSUE_TEMPLATE/
+.github/PULL_REQUEST_TEMPLATE/
+
+# 系統
+.DS_Store
+Thumbs.db
+desktop.ini 
